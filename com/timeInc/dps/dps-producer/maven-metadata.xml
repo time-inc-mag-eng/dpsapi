@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.timeInc.dps</groupId>
+  <artifactId>dps-producer</artifactId>
+  <versioning>
+    <release>1.6.62</release>
+    <versions>
+      <version>1.6.62</version>
+    </versions>
+    <lastUpdated>20140605152908</lastUpdated>
+  </versioning>
+</metadata>
